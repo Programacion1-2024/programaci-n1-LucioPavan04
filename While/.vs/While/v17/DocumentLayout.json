@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\programaci-n1-LucioPavan04\\While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C676216B-E866-4C22-AB8C-F57E7A6EABFE}|While\\While.csproj|c:\\users\\lucio\\onedrive\\escritorio\\programaci-n1-luciopavan04\\while\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C676216B-E866-4C22-AB8C-F57E7A6EABFE}|While\\While.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\programaci-n1-LucioPavan04\\While\\While\\Program.cs",
+              "RelativeDocumentMoniker": "While\\Program.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\programaci-n1-LucioPavan04\\While\\While\\Program.cs",
+              "RelativeToolTip": "While\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:24:56.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
